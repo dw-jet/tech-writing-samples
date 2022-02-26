@@ -18,4 +18,4 @@ In the search bar at the top of the page, type in __pocket__. Then click the __t
 
 ![](step2.png)
 
-Now you can close the __about:config__ tab and go about your day. If you get stuck or don't feel comfortable making this change, please reach out to the IT help desk at extension 1231.
+Now you can close the __about:config__ tab and go about your day. If you get stuck or don't feel comfortable making this change, please reach out to the IT help desk at extension 1111.
