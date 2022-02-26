@@ -6,3 +6,4 @@
 	- [FAQ](./FAQ.md)
 	- [API](./api.md)
 	- [Release Notes](./release-notes.md)
+	- [Thanks!](./end.md)

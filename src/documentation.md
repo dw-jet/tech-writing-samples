@@ -4,4 +4,4 @@ The following samples are from documentation of systems that I built or supporte
 
 All samples are written in markdown and built for the web with [mdBook](https://rust-lang.github.io/mdBook/).
 
-Click or tap the arrow on the right side of the page to get started. You can also use the right arrow key.
+Head back the [main site](https://jamesteitsworth.com) at any time.
