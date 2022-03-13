@@ -15,7 +15,7 @@ In this lesson, you'll learn how to add a gradient border to your elements doing
 
 ## <a id="make-button"></a>Make a button from a Link block
 
-Let's make a button so we have something to add the gradient border to. 
+Create a button so you have something to add the gradient border to. 
 
 1. Drag a **Link block** into the document
 2. Drag a **text block** and drop it inside the link block
@@ -32,10 +32,9 @@ Give the **text block** a button shape with padding.
 <img src="second.png" width="40%" />
 
 
-
 ## <a id="gradient-background"></a>Set a linear gradient background
 
-Now that we have a button to work with, we can set up the gradient border on the **Link block**.
+Great! Now you have a button to work with, set up the gradient border on the **Link block**.
 
 1. Open **Style panel** > **Backgrounds**
 1. Click the **Image & gradient** "plus" icon
@@ -54,7 +53,7 @@ Apply a background color to the text box that matches the page background on the
 
 ## <a id="add-padding"></a>Add padding
 
-Now, show the gradient by adding padding to the link block.
+Show the gradient by adding padding to the link block.
 
 1. Open **Style panel** > **Spacing**
 2. Set the same padding on all four sides
@@ -71,7 +70,7 @@ Read more about [typography](https://university.webflow.com/lesson/advanced-typo
 
 <img src="sixth.png" width="40%" />
 
-Optionally, finish the button off by adding a border-radius to both the **Link block** and **text block** to round the button.
+Finish the button off by adding a border-radius to both the **Link block** and **text block** to round the button.
 
 Read more about [borders](https://university.webflow.com/lesson/borders).
 
