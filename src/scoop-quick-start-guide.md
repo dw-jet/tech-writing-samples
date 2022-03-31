@@ -20,7 +20,7 @@ To install scoop, use this command.
 iwr -useb get.scoop.sh | iex    
 ```
 
-Scoop is installed in your User folder by default. To install elsewhere, refer to the official installation instructions.
+Scoop is installed in your User folder by default. To install elsewhere, refer to the [official installation instructions](https://github.com/ScoopInstaller/Scoop/wiki/Quick-Start#installing-scoop-to-custom-directory).
 
 ## Usage
 
