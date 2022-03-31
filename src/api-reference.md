@@ -23,7 +23,7 @@ GET http://localhost:4567/api/v1/roll?numDice=4&difficulty=7
 | num_dice         | How many dice the API rolled.                                 | number           |                                                         |
 | faces            | The result of rolling the dice. One die for each num_dice.           | array of numbers | Dice are 10-sided                                    |
 | rolled_successes | The number of dice that met or beat the difficulty          | number           |                                                         |
-| rolled_ones      | The number of dice that came out at exactly 1.              | number           |                                                         |
+| rolled_ones      | How many 1s are in the result.              | number           |                                                         |
 | total_successes  | The rolled successes minus the rolled ones.                | number           |                                                         |
 | outcome          | The overall outcome of the roll.                           | string           | Valid values: "__success__", "__failure__", "__botch__" |
   

@@ -1,9 +1,8 @@
 # Summary
 
-- [Documentation Samples](./documentation.md)
-	- [Quick Start Guide](./scoop-quick-start-guide.md)
-	- [Gradient border tutorial](./gradient-border.md)
-	- [Remove Pocket tutorial](./tutorial.md)
-	- [FAQ](./FAQ.md)
-	- [API](./api.md)
-	- [Thanks!](./end.md)
+- [API Reference Documentation](./api-reference.md)
+- [API Conceptual Documentation](./api-overview.md)
+- [Quick Start Guide](./scoop-quick-start-guide.md)
+- [Gradient Border Tutorial](./gradient-border.md)
+- [Remove Pocket Tutorial](./tutorial.md)
+- [Technical Memo](./technical-writing-memo.md)
